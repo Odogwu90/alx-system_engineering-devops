@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -type n 1 | head 
