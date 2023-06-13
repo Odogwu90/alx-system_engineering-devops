@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "alias $alias_name='$ls'" >> ~/.bashrc
